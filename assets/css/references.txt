@@ -1,0 +1,1 @@
+article.active - access each popup window of subsection (i.e. Portfolio, About,...)

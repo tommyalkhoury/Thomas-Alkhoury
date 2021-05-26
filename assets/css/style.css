@@ -1,0 +1,139 @@
+.container{
+	margin: 0px auto;
+	width: 100%;
+	padding: 0px;
+
+}
+
+.text{
+	text-align: justify;
+	font-size: 25px; 
+}
+
+.text-header{
+	text-align: justify;
+	font-size: 45px; 
+}
+
+.text-headertwo{
+	text-align: justify;
+	font-size: 38px; 
+}
+
+.text-headerthree{
+	text-align: justify;
+	font-size: 20px; 
+}
+
+.aboutone{
+	margin-left: 140px;
+	width:400px;
+	height: auto;
+	float:left;
+	shape-outside: margin-box;
+	margin-bottom: 10px;
+}
+
+.abouttwo{
+	width:328px;
+	height: auto;
+	float:left;
+	shape-outside: margin-box;
+	margin-bottom: 10px;
+
+}
+
+.aboutthree{
+	width:360px;
+	height: auto;
+	float:left;
+	shape-outside: margin-box;
+	margin-bottom: 10px;
+}
+
+.nosecone-img{
+	width:500px;
+	height: auto;
+	float:left;
+	margin-right: 16px;
+	shape-outside: margin-box;
+	transform: translateY(23px);
+}
+
+.wrapping-machineone{
+	width:350px;
+	height: auto;
+	float:right;
+	shape-outside: margin-box;
+	transform: translateY(10px);
+}
+
+.wrapping-machinetwo{
+	width:414px;
+	height: auto;
+	float:right;
+	shape-outside: margin-box;
+	margin-left: 16px;
+	transform: translateY(10px);
+}
+
+.environment-regulator{
+	width:250px;
+	height: auto;
+	float:left;
+	margin-right: 16px;
+	shape-outside: margin-box;
+	transform: translateY(16px);
+}
+
+.speaker-enclosureone{
+	width:240px;
+	height: auto;
+	float:right;
+	margin-left: 16px;
+	shape-outside: margin-box;
+	transform: translateY(15px);
+}
+
+.speaker-enclosuretwo{
+	width:210px;
+	height: auto;
+	float:right;
+	shape-outside: margin-box;
+	transform: translateY(15px);
+}
+
+.humidor{
+	width:260px;
+	height: auto;
+	float:left;
+	shape-outside: margin-box;
+	margin-right: 16px;
+	transform: translateY(9px);
+}
+
+.model-rocketone{
+	width:320px;
+	height:117px;
+	float:right;
+	shape-outside: margin-box;
+	transform: translateY(85px);
+}
+
+.model-rockettwo{
+	width:300px;
+	height: auto;
+	float:right;
+	shape-outside: margin-box;
+	margin-left: 16px;
+	transform: translateY(85px);
+}
+
+.can-opener{
+	width:300px;
+	height: auto;
+	float:left;
+	shape-outside: margin-box;
+	margin-right: 16px;
+	transform: translateY(10px);
+}
