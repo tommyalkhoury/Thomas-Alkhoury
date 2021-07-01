@@ -1,6 +1,6 @@
 .container{
 	margin: 0px auto;
-	width: 50%;
+	width: 100%;
 	padding: 0px;
 
 }
@@ -27,7 +27,7 @@
 
 .aboutone{
 	margin-left: 140px;
-	width:400px;
+	width:30.6%;
 	height: auto;
 	float:left;
 	shape-outside: margin-box;
@@ -35,7 +35,7 @@
 }
 
 .abouttwo{
-	width:328px;
+	width:25%;
 	height: auto;
 	float:left;
 	shape-outside: margin-box;
@@ -44,7 +44,7 @@
 }
 
 .aboutthree{
-	width:360px;
+	width:27.4%;
 	height: auto;
 	float:left;
 	shape-outside: margin-box;
