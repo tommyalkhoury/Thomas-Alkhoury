@@ -94,23 +94,15 @@
 	shape-outside: margin-box;
 	transform: translateY(-10px);
 }
-}
 
-.speaker-enclosureone{
-	width:240px;
+
+.speaker{
+	width: 450px;
 	height: auto;
-	float:right;
+	float: right;
 	margin-left: 16px;
 	shape-outside: margin-box;
-	transform: translateY(15px);
-}
-
-.speaker-enclosuretwo{
-	width:645px;
-	height: 556px;
-	float:right;
-	shape-outside: margin-box;
-	transform: translateY(0px);
+	transform: translateY(-70px);
 }
 
 .humidor{
