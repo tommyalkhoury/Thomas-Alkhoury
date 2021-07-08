@@ -102,7 +102,7 @@
 	float: right;
 	margin-left: 16px;
 	shape-outside: margin-box;
-	transform: translateY(0px);
+	transform: translateY(15px);
 }
 
 .humidor{
